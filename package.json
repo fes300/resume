@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "init": "resumed init",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "jsonresume-theme-even": "^0.17.0",
+    "puppeteer": "^13.0.0",
+    "resumed": "^3.0.0"
+  }
+}

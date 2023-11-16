@@ -1,0 +1,295 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Federico Sordillo",
+    "label": "functional programmer and Technical PM",
+    "image": "https://gravatar.com/avatar/707b5ad975ef9559b804217229bf35dd2448d62067133e5cacf5aa62fc0dd69a?s=200",
+    "email": "federicosordillomail@gmail.com",
+    "phone": "+393402750846",
+    "url": "http://federicosordillo.com",
+    "summary": "Holder of strong opinions weakly held.\n\nI have worked on the full spectrum of web technologies, both as a software engineer and as a Technical Project Manager, leading small teams dealing with complex domains.\n\nI prefer strongly typed languages and have a vertical in TypeScript, although in the last few years I have mainly worked on large distributed systems with Go.\n\nWorking in all kinds of environments, from big multinationals to smaller tech companies, I experienced firsthand what makes a product successful and the importance of good communication and efficient processes.",
+    "location": {
+      "countryCode": "US",
+      "address": "Italy"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "fes300",
+        "url": "https://github.com/fes300"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "fes300",
+        "url": "https://www.linkedin.com/in/fes300/"
+      },
+      {
+        "network": "Twitter",
+        "username": "Fes3002",
+        "url": "https://twitter.com/Fes3002"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Juni",
+      "position": "Software Engineer & tech lead",
+      "startDate": "2022-09-30",
+      "highlights": [
+        
+      ],
+      "summary": "Sketching architectural solutions and leading a small interdisciplinary team.\nWorking in a distributed microservices environment with Kafka. Kubernetes and Go on the backend and Typescript on the frontend. Applying DDD and clean architecture.",
+      "url": "https://www.linkedin.com/company/getjuni/",
+      "location": "Göteborg, Vastra Gotaland County, Sweden"
+    },
+    {
+      "name": "Freelance Web Development",
+      "position": "Web Development Consultant",
+      "startDate": "2020-02-28",
+      "endDate": "2023-05-31",
+      "highlights": [
+        
+      ],
+      "summary": "As a consultant, I specialize in front-end technologies, but I try to keep an all-round flexible approach.\nI help customers shaping their internal processes and Agile methodologies while creating high-quality software that meets business requirements in the most efficient and effective way.",
+      "url": "https://www.linkedin.com/company/freelance-web-development/",
+      "location": "Milan Area, Italy"
+    },
+    {
+      "name": "Squash the Ideas",
+      "position": "CTO",
+      "startDate": "2020-02-28",
+      "endDate": "2022-01-31",
+      "highlights": [
+        
+      ],
+      "url": "https://www.linkedin.com/company/squash-the-ideas/",
+      "location": "County Dublin, Ireland"
+    },
+    {
+      "name": "buildo",
+      "position": "PM and Software Engineer",
+      "startDate": "2018-07-31",
+      "endDate": "2020-02-28",
+      "highlights": [
+        
+      ],
+      "summary": "Working with Scala, Typescript, Concourse, and humans.\n\nStudying category theory.",
+      "url": "https://www.linkedin.com/company/buildo/",
+      "location": "Milan Area, Italy"
+    },
+    {
+      "name": "ProntoPro",
+      "position": "software architect",
+      "startDate": "2017-07-31",
+      "endDate": "2018-07-31",
+      "highlights": [
+        
+      ],
+      "summary": "JavaScript, React, React Native, Redux",
+      "url": "https://www.linkedin.com/company/prontopro/",
+      "location": "Milano, Italia"
+    },
+    {
+      "name": "Chiarezza",
+      "position": "Frontend Developer",
+      "startDate": "2016-04-30",
+      "endDate": "2017-08-31",
+      "highlights": [
+        
+      ],
+      "summary": "Javascript, React, Redux, Selenium.",
+      "url": "https://www.linkedin.com/company/chiarezza-it/",
+      "location": "Milan Area, Italy"
+    },
+    {
+      "name": "Instilla",
+      "position": "Full-stack developer and co-founder",
+      "startDate": "2015-02-28",
+      "endDate": "2016-04-30",
+      "highlights": [
+        
+      ],
+      "summary": "Processes structuring&implementation, lean project management, software design, development (PHP, Symfony framework, Silex microframework, Twig, React and Flux for frontend).",
+      "url": "https://www.linkedin.com/company/instilla/"
+    },
+    {
+      "name": "Noicompriamoauto.it",
+      "position": "Business Analyst",
+      "startDate": "2014-12-31",
+      "endDate": "2015-02-28",
+      "highlights": [
+        
+      ],
+      "summary": "KPI construction&analysis, Processes structuring&implementation."
+    },
+    {
+      "name": "Università Bocconi",
+      "position": "Research Assistant",
+      "startDate": "2014-10-31",
+      "endDate": "2015-01-31",
+      "highlights": [
+        
+      ],
+      "summary": "Dataset building and Data Analysis. Research project \"Osservatorio Aziende Quotate\" on Corporate Governance practices with Professor Alessandro Minichilli.",
+      "url": "https://www.linkedin.com/school/universita-bocconi/"
+    },
+    {
+      "name": "Ipsos",
+      "position": "Financial Analyst",
+      "startDate": "2013-07-31",
+      "endDate": "2014-12-31",
+      "highlights": [
+        
+      ],
+      "summary": "budgeting, P&L, trend analysis, revenues and profitability analysis, planning, research support",
+      "url": "https://www.linkedin.com/company/ipsos/",
+      "location": "Milan Area, Italy"
+    },
+    {
+      "name": "Project for People",
+      "position": "Intern",
+      "startDate": "2013-01-31",
+      "endDate": "2013-05-31",
+      "highlights": [
+        
+      ],
+      "summary": "Data analysis, reporting, project accounting."
+    },
+    {
+      "name": "Italian Chamber of Commerce",
+      "position": "Intern",
+      "startDate": "2011-09-30",
+      "endDate": "2012-02-28",
+      "highlights": [
+        
+      ],
+      "summary": "Market Analysis, on-line research, direct contact with potential partners.",
+      "url": "https://www.linkedin.com/company/italian-chamber-of-commerce/"
+    },
+    {
+      "name": "Mixa ",
+      "position": "Contributor Journalist",
+      "startDate": "2009-09-30",
+      "endDate": "2010-04-30",
+      "highlights": [
+        
+      ],
+      "location": "Milan Area, Italy"
+    }
+  ],
+  "volunteer": [
+    
+  ],
+  "education": [
+    {
+      "institution": "Università Commerciale 'Luigi Bocconi'",
+      "area": "microeconomics, econometrics, political economics.",
+      "studyType": "Post-graduate Degree in Economic and Social Sciences",
+      "startDate": "2009-12-31",
+      "endDate": "2012-12-31",
+      "score": "",
+      "courses": [
+        
+      ]
+    },
+    {
+      "institution": "Visiting Student at JMG - Institutionen for Journalistik och masskommunikation, Goteborg Universitet",
+      "area": "Communication, Journalism, and Related Programs",
+      "studyType": "",
+      "startDate": "2008-12-31",
+      "endDate": "2008-12-31",
+      "score": "",
+      "courses": [
+        
+      ]
+    },
+    {
+      "institution": "Università degli Studi di Milano",
+      "area": "Sociology, Political science",
+      "studyType": "Bachelor Degree in Communication and Society",
+      "startDate": "2005-12-31",
+      "endDate": "2008-12-31",
+      "score": "",
+      "courses": [
+        
+      ]
+    }
+  ],
+  "awards": [
+    
+  ],
+  "certificates": [
+    {
+      "name": "M101P: MongoDB for Developers",
+      "issuer": "MongoDB",
+      "startDate": "2015-12-31",
+      "url": "http://university.mongodb.com/course_completion/260f21f2dbb846b69f86222a9803bd20"
+    },
+    {
+      "name": "Machine Learning",
+      "issuer": "Coursera Course Certificates",
+      "startDate": "2016-01-31",
+      "url": "https://www.coursera.org/account/accomplishments/verify/ZPRCA4L97SGR"
+    }
+  ],
+  "publications": [
+    
+  ],
+  "skills": [
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": [
+        
+      ]
+    },
+    {
+      "name": "Go (Programming Language)",
+      "level": "",
+      "keywords": [
+        
+      ]
+    },
+    {
+      "name": "Software Architecture",
+      "level": "",
+      "keywords": [
+        
+      ]
+    },
+    {
+      "name": "Domain-Driven Design (DDD)",
+      "level": "",
+      "keywords": [
+        
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Full Professional",
+      "language": "English"
+    },
+    {
+      "fluency": "Professional Working",
+      "language": "French"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "Spanish"
+    }
+  ],
+  "interests": [
+    
+  ],
+  "references": [
+    
+  ],
+  "projects": [
+    
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
